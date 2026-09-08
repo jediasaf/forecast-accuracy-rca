@@ -38,7 +38,7 @@ Six views over a forecast-accuracy fact table at reference x target-month x hori
 
 ## Running it
 
-Open `forecast-accuracy-rca.html` directly, or serve the folder:
+Open `index.html` directly, or serve the folder:
 
 ```bash
 python3 -m http.server 4322

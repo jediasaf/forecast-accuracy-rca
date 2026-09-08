@@ -1,4 +1,1 @@
-{
-  "cleanUrls": true,
-  "rewrites": [{ "source": "/", "destination": "/forecast-accuracy-rca.html" }]
-}
+{ "cleanUrls": true }
